@@ -9,3 +9,9 @@ JAVASCRIP/REACT
 HTML(MARKER)
 CSS
 ```
+
+## PREVIEW
+```
+Para visualizar o site entre em
+https://github.com/alisonmelo/meu-site-em-react
+```
