@@ -13,5 +13,5 @@ CSS
 ## PREVIEW
 ```
 Para visualizar o site entre em
-https://github.com/alisonmelo/meu-site-em-react
+[https://meu-site-em-react.vercel.app/](https://meu-site-em-react.vercel.app/)
 ```
