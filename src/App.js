@@ -2,13 +2,13 @@ import React from 'react';
 import Footer from './components/footer/Footer';
 
 import Header from './components/header/header';
-import Portifolio from './components/portfolio/Portifolio';
+import Routes from './routes';
 
 function App() {
   return (
     <div>
-        <Header/>
-        <Portifolio/>
+       {/*  <Header/> */}
+        <Routes/>
         <Footer/>
     </div>
  

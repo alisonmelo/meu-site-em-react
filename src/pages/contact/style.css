@@ -1,0 +1,43 @@
+.contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0px;
+    height: 75vh;
+}
+.contactInfo h3{
+    padding-bottom: 10px;
+}
+.contactInfo h3,
+p{
+  
+    font-size: 2rem;
+    color: white;
+}
+.contactInfo h2{
+    font-size: 5rem;
+    color:  #c3c0c0;
+}
+.socialContact{
+    display: flex;
+    padding: 14px 0px
+}
+.socialContact li{
+    display: inline-block;
+    padding: 0px 14px;
+}
+@media(max-width:800px){
+    .contactInfo{
+        text-align: center;
+        padding: 0px 16px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+    }.contactInfo h2{
+        font-size: 3rem;
+    }.contactInfo p {
+        font-size: 1.1rem;
+    }
+
+}
