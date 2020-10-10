@@ -9,3 +9,9 @@ JAVASCRIP/REACT
 HTML(MARKER)
 CSS
 ```
+
+## PREVIEW
+```
+Para visualizar o site entre em
+[https://meu-site-em-react.vercel.app/](https://meu-site-em-react.vercel.app/)
+```
